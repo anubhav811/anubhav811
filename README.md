@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 
 <br>
-** Frameworks/Languages **
+**  🛠 &nbsp; Frameworks/Languages **
 <br>
 <br>
 <div align="cenyer">
