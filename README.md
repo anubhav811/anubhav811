@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 :-------------------------:|:-------------------------:
 ![Anubhav Chachra:: Profile Stats](https://github-readme-stats.vercel.app/api?username=anubhav811&show_icons=true&hide_border=true&theme=dark&count_private=true) | ![Anubhav Chachra :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisukesh04&layout=compact&theme=react&hide_border=true)
 
-<!-- ![Anubhav's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anubhav811) -->
+![Anubhav's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anubhav811) 
 
 ### 🌎 &nbsp;Find me elsewhere
 <p align='center'>
