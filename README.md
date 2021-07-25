@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 Open for Collaboration
 - 🤔 I’m looking for help with Web Development!
 - 💬 Would love to chat :)
-- 📫 How to reach me: chachraanubhav@gmail.com
+- 📫 Reach me here : chachraanubhav@gmail.com
 - 😄 Pronouns: He/Him
 
 <img src="profile.png" width="400" align="right">
