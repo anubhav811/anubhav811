@@ -7,7 +7,7 @@
 - 📫 Reach me here : chachraanubhav@gmail.com
 - 😄 Pronouns: He/Him
 <br>
-🛠 &nbsp;Frameworks/Languages 
+### 🛠 &nbsp;Frameworks|Languages 
 <br>
 <br>
 <div align="cenyer">
