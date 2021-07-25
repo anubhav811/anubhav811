@@ -6,9 +6,8 @@
 - 🤔 I’m looking for help with Web Development!
 - 📫 Reach me here : chachraanubhav@gmail.com
 - 😄 Pronouns: He/Him
-<br>
-### 🛠 &nbsp;Frameworks|Languages 
-<br>
+### 🛠 &nbsp;Tech Stack
+
 <br>
 <div align="cenyer">
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
