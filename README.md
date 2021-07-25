@@ -1,4 +1,4 @@
-## Hola, Anubhav here 👋
+## Hello , Anubhav here 👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=anubhav811.anubhav811) ![GitHub followers](https://img.shields.io/github/followers/anubhav811.svg?style=social&label=Follow)
 <!--
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 Reach me here : chachraanubhav@gmail.com
 - 😄 Pronouns: He/Him
 
-<img src="profile.png" width="400" align="right">
+
 
 ### 🛠 &nbsp;Tech Stack
 
