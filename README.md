@@ -1,5 +1,6 @@
 ## Hi there , Anubhav here 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=anubhav811.anubhav811) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=anubhav811.anubhav811) ![Followers](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000) 
+
 
 - 🔭 I’m currently learning about Android Architecture Components and Firebase.
 - 👯 Open for Collaboration
