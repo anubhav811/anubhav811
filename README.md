@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with Web Development!
 - 📫 Reach me here : chachraanubhav@gmail.com
 - 😄 Pronouns: He/Him
-<div>
 <br>
 **Frameworks/Languages**
 <br>
@@ -18,7 +17,6 @@
 <br>
 </div>
 <br><br>
-</div>
 ### ⚙️ &nbsp;GitHub Analytics
  Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
