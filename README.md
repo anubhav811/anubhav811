@@ -7,7 +7,7 @@
 - 📫 Reach me here : chachraanubhav@gmail.com
 - 😄 Pronouns: He/Him
 <br>
-###🛠 &nbsp;Frameworks/Languages 
+### 🛠 &nbsp;Frameworks/Languages 
 <br>
 <br>
 <div align="cenyer">
@@ -17,12 +17,12 @@
 <br>
 
 
-###⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
  Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
 ![Anubhav Chachra:: Profile Stats](https://github-readme-stats.vercel.app/api?username=anubhav811&show_icons=true&hide_border=true&theme=dark&count_private=true) | ![Anubhav Chachra :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisukesh04&layout=compact&theme=react&hide_border=true)
 
-###🌏 &nbsp;Find me elsewhere
+### 🌏 &nbsp;Find me elsewhere
 <p align='center'>
   <a href="http://linkedin.com/in/anubhav-chachra-80531217a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
