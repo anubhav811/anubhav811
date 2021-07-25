@@ -25,7 +25,7 @@
 ### 🌎 &nbsp;Find me elsewhere
 <p align='center'>
   <a href="http://linkedin.com/in/anubhav-chachra-80531217a/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="http://github.com/anubhav811">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
