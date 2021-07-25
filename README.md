@@ -11,12 +11,10 @@
 **Frameworks/Languages**
 <br>
 
-<div align="left">
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <br>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <br>
-
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
  Profile stats              |  Language Contribution
@@ -24,7 +22,6 @@
 ![Anubhav Chachra:: Profile Stats](https://github-readme-stats.vercel.app/api?username=anubhav811&show_icons=true&hide_border=true&theme=dark&count_private=true) | ![Anubhav Chachra :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisukesh04&layout=compact&theme=react&hide_border=true)
 
 ![Anubhav's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anubhav811) 
-</div>
 ### 🌎 &nbsp;Find me elsewhere
 <p align='center'>
   <a href="http://linkedin.com/in/anubhav-chachra-80531217a/">
