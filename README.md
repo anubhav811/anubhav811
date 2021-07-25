@@ -6,16 +6,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Android apps 
+- 🔭 I’m currently learning about Android Architecture Components and Firebase.
 - 👯 Open for Collaboration
 - 🤔 I’m looking for help with Web Development!
-- 💬 Would love to chat :)
 - 📫 Reach me here : chachraanubhav@gmail.com
 - 😄 Pronouns: He/Him
 
-
-
-### 🛠 &nbsp;Tech Stack
+**Frameworks/Languages**
 
 <br>
 <div align="left">
