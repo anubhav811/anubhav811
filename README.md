@@ -16,11 +16,6 @@
 <br>
 
 
-### ⚙️ &nbsp;GitHub Analytics
- Profile stats              |  Language Contribution
-:-------------------------:|:-------------------------:
-![Anubhav Chachra:: Profile Stats](https://github-readme-stats.vercel.app/api?username=anubhav811&show_icons=true&hide_border=true&theme=dark&count_private=true) | ![Anubhav Chachra :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav811&layout=compact&theme=react&hide_border=true)
-
 ### 🌏 &nbsp;Find me elsewhere
 <p align='center'>
   <a href="http://linkedin.com/in/anubhav-chachra-80531217a/">
