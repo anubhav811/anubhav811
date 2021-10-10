@@ -1,11 +1,10 @@
 ## Hi there , Anubhav here 👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=anubhav811.anubhav811)
 
-- 🔭 I’m currently learning about Android Architecture Components and Firebase.
-- 👯 Open for Collaboration
-- 🤔 I’m looking for help with Web Development!
+- 🔭 I’m currently learning FrontEnd Web Development.
+- 👯 Open to work together for projects
 - 📫 Reach me here : chachraanubhav@gmail.com
-- 😄 Pronouns: He/Him
+
 ### 🛠 &nbsp;Tech Stack
 
 <br>
