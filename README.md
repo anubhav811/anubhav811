@@ -1,7 +1,7 @@
 ## Hi there , Anubhav here 👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=anubhav811.anubhav811)
 
-- 🔭 I’m currently learning FrontEnd Web Development and Native Android Development.
+- 🔭 I’m currently learning Native Android Development with modular and Clean Architecture.
 - 👯 Open to work together for projects
 - 📫 Reach me here : chachraanubhav@gmail.com
 
