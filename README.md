@@ -1,7 +1,7 @@
 ## Hi there , Anubhav here 👋
 
 - 🔭 I’m currently learning Native Android Development with modular and Clean Architecture.
-- 👯 Looking for internships.
+- 💻 Looking for internships.
 - 📫 Reach me here : chachraanubhav@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
