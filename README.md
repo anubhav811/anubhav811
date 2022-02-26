@@ -1,6 +1,6 @@
 ## Hi there , Anubhav here 👋
 
-- 🔭 I’m currently learning Native Android Development with modular and Clean Architecture.
+- 🔭 I’m currently learning Native Android Development .
 - 💻 Looking for internships.
 - 📫 Reach me here : chachraanubhav@gmail.com
 
