@@ -42,4 +42,7 @@
   <a href="https://www.instagram.com/anoobhow/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    </a>
+    <a href="https://leetcode.com/chachraanubhav/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+   </a>
 </p>
