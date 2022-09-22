@@ -1,6 +1,6 @@
 ## Hi there , Anubhav here 👋
 
-- 🔭 I’m currently learning Native Android Development .
+- 🔭 I’m currently learning Cross Platform Application Development .
 - 💻 Looking for internships.
 - 📫 Reach me here : chachraanubhav@gmail.com
 
