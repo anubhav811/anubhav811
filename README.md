@@ -1,7 +1,5 @@
 ## Hi there , Anubhav here 👋
 
-- 🔭 I’m currently learning Cross Platform Application Development .
-- 💻 Looking for internships.
 - 📫 Reach me here : chachraanubhav@gmail.com
 
 ### 🛠 &nbsp;Tech Stack
