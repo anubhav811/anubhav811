@@ -1,5 +1,6 @@
 ## Hi there , Anubhav here 👋
 
+- Working with RAG and LLMs
 - Working with SpringBoot and Angular
 - 📫 Reach me here : chachraanubhav@gmail.com
 
