@@ -1,8 +1,8 @@
-## Hi there , Anubhav here 👋
+## Hi there, Anubhav here 👋
 
 - Working with RAG and LLMs
 - Working with SpringBoot and Angular
-- 📫 Reach me here : chachraanubhav@gmail.com
+- 📫 Reach me here: chachraanubhav@gmail.com or [LinkedIn](https://www.linkedin.com/in/anubhav-chachra-80531217a/)
 
 ### 🛠 &nbsp;Tech Stack
 
